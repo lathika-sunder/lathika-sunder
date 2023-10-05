@@ -16,7 +16,7 @@ I'm  with a penchant for innovation and a knack for creating dazzling web experi
 
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm not just a tech whiz; I'm also an eloquent speaker who has aced numerous oratorical competitions!
-- 💬 Ask me about: Anything related to tech, from coding conundrums to UI/UX dilemmas. I'm here to help!
+- 💬 Ask me about: Anything related to tech, from web development to DSA. I'm here to help and learn from you!
 
 ## How to Reach Me
 
