@@ -20,4 +20,4 @@ I'm  with a penchant for innovation and a knack for creating dazzling web experi
 
 ## How to Reach Me
 
-Feel free to drop me a line at lathikasunder11@gmail.com or give me a ring at +917550240307. You can also find me on [LinkedIn](https://www.linkedin.com/in/lathika-sunder/) and explore my coding adventures on [GitHub](https://github.com/lathika-sunder). Let's connect and create something extraordinary! 🚀
+Feel free to drop me a line at lathikasunder11@gmail.com .You can also find me on LinkedIn](https://www.linkedin.com/in/lathika-sunder/) and explore my coding adventures on [GitHub](https://github.com/lathika-sunder). Let's connect and create something extraordinary! 🚀
