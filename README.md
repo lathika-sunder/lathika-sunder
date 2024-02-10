@@ -18,7 +18,12 @@ I'm  with a penchant for innovation and a knack for creating dazzling web experi
 - ⚡ Fun fact: I'm not just a tech whiz; I'm also an eloquent speaker who has aced numerous oratorical competitions!
 - 💬 Ask me about: Anything related to tech, from web development to DSA. I'm here to help and learn from you!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lathika-sunder&show_icons=true&theme=radical)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lathika-sunder&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lathika-sunder&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 ## How to Reach Me
 
