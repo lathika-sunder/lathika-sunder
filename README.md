@@ -1,4 +1,4 @@
-# Hi there! 👋
+# Lathika Sunder - Software Developer
 
 I'm Lathika Sunder from the vibrant city of Chennai, India! 🌟
 
