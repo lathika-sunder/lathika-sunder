@@ -1,5 +1,7 @@
 # Lathika Sunder - Software Developer
 
+![](https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif) 
+
 I'm Lathika Sunder from the vibrant city of Chennai, India! 🌟
 
 ## About Me
